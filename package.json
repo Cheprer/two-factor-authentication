@@ -1,0 +1,29 @@
+{
+  "name": "unms-server",
+  "version": "0.7.12",
+  "description": "Ubiquiti network management system.",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "=7.3.0",
+    "npm": "=4.1.1"
+  },
+  "dependencies": {
+    "aguid": "=1.0.4",
+    "bcrypt": "=1.0.1",
+    "boom": "=3.2.2",
+    "env2": "^2.1.1",
+    "handlebars": "^4.0.6",
+    "hapi": "=15.0.3",
+    "hapi-auth-jwt2": "=7.1.0",
+    "hapi-login": "^1.2.2",
+    "joi": "=9.0.4",
+    "qrcode": "^0.7.0",
+    "speakeasy": "^2.0.0",
+    "validator": "=6.2.1",
+    "vision": "=4.1.1"
+  }
+}
