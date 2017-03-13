@@ -1,4 +1,4 @@
-# UNMS Authorization
+# Two Factor Authentication
 I've created simple 2 factor authentication example how it could be implemented using hapi and speakeasy(Google Authenticator).
 Views based on this project: https://github.com/dwyl/hapi-login-example
 

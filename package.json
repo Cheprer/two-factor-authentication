@@ -1,7 +1,7 @@
 {
-  "name": "unms-server",
+  "name": "2-factor-example",
   "version": "0.7.12",
-  "description": "Ubiquiti network management system.",
+  "description": "Basic login hapi, google Authenticator",
   "private": true,
   "main": "index.js",
   "scripts": {
